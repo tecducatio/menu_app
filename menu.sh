@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script de shell a  modo de ejemplo para comprobar el uso de git 
-while true; so
+while true; do
 cat << EOF
 ************************
 
