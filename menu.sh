@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script de shell a  modo de ejemplo para comprobar el uso de git 
-delay(){ echo "Mostrando información"; sleep 3; }
+delay(){ clear; echo "Mostrando información"; sleep 3; }
 while true; do
 cat << EOF
 ************************
@@ -10,7 +10,7 @@ INFORMACIÓN DEL SISTEMA
 ***********************
 
 Selección de sistemas:
-1) Nuecleo utilizado
+1) Nucleo utilizado
 2) info completa del sistema
 3) info de la cpu
 4) Nombre del equipo
