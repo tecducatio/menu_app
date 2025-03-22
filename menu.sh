@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Version 0.9 RC
 # Verificar si dialog está instalado
 if ! command -v dialog &> /dev/null; then
     echo "Error: 'dialog' no está instalado. Por favor instálalo primero."
