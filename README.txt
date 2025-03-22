@@ -1,8 +1,9 @@
-Ejemplo de historial sencillo en una rama para el curso 1520 (creo) ;-)
 =========================================
-menú en formato CLI para obtención de
+ Requerimientos: instalar dialog 
+Ej.: sudo apt install dialog (debian derivados)
+     sudo dnf install dialog (redhat dervados)
 
-INFORMACION DEL SISTEMA ... (sin tilde ni ná)
+INFORMACION DEL SISTEMA 
 
 ========================================
 Licencia: GPL - https://www.gnu.org/licenses/gpl-3.0.html#license-text
