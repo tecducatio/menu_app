@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script de shell a  modo de ejemplo para comprobar el uso de git 
-delay(){ clear; echo "Mostrando información"; sleep 3; }
+delay(){ echo "Mostrando información"; sleep 3;clear; }
 while true; do
 cat << EOF
 ************************
